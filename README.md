@@ -1,6 +1,9 @@
 # Big_Data_Analysis
 SAS玉山銀行 大數據資料科學家競賽
 
+* SAS_EG學習筆記: SASEG_note_tychen.pdf
+* 大數據分析EDA結果報告: Exploratory_Data_Analysis_report.pdf
+
 ## Approach
 1. 篩選出對外匯有興趣之潛在族群
 2. 用PCA , K means 方法分群
