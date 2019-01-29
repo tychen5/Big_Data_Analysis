@@ -103,3 +103,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+./project/data/regression.sas7bdat
+./project/data/regressiondata.sas7bdat
+./project/data/work_query_for_web_trainingset_v.sas7bdat
+./project/data/cust_web_browsing.sas7bdat
+./sas.zip
